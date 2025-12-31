@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+C:\Users\vasav\OneDrive\Desktop\fullstack\.metadata\.plugins\org.eclipse.jdt.core
+3009955505.index
+2964923360.index
+1865797976.index
+1197338609.index
+3791045474.index
